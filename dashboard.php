@@ -56,6 +56,7 @@ $balance = $userData['balance'];
 $showWelcome = isset($_GET['welcome']) && $_GET['welcome'] == 1;
 ?>
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
